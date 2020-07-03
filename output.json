@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Alice",
+    "age": 20,
+    "hobbies": [
+      {
+        "category": "sport",
+        "name": "volleyball"
+      },
+      {
+        "category": "amusement",
+        "name": "movie"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Bob",
+    "age": 25,
+    "hobbies": [
+      {
+        "category": "sport",
+        "name": "soccer"
+      },
+      {
+        "category": "music",
+        "name": "guitar"
+      }
+    ]
+  }
+]
